@@ -11,6 +11,15 @@ A daily tech digest — in English, every item hands-on tested or read in full b
 
 Principle: only publish what was verified by hand; failures and overhyped projects are reported honestly — that's the whole point of "tested for you".
 
+## How we score
+
+- ⭐5 — every claim I tested checked out; I'd recommend it to a friend.
+- ⭐4 — works, with caveats worth knowing.
+- ⭐3 — interesting but rough; watch, don't adopt yet.
+- ⭐2 — mostly hype; the demo is better than the product.
+- ⭐1 — broken or misleading.
+- No score — couldn't test (the reason is always stated).
+
 ## Past editions
 
 - [2026-10-14](reports/2026-10-14.md)
