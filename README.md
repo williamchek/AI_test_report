@@ -1,6 +1,6 @@
 # AI Test Report （AI幫你測）
 
-A daily tech digest — in English, every item hands-on tested or read in full before it's written up.
+A daily tech digest — in English, every item hands-on tested or read in full before it is written up.
 
 ## What's inside
 
@@ -9,7 +9,7 @@ A daily tech digest — in English, every item hands-on tested or read in full b
 - 🛠️ **Agent skill tests** — useful AI agent skills, read fully and executed against real examples
 - 🔌 **MCP tests** — new MCP servers, actually wired up and tried out
 
-Principle: only publish what was verified by hand; failures and overhyped projects are reported honestly — that's the whole point of "tested for you".
+Principle: only publish what was verified by hand; failures and overhyped projects are reported honestly — that is the whole point of "tested for you".
 
 ## How we score
 
@@ -22,5 +22,6 @@ Principle: only publish what was verified by hand; failures and overhyped projec
 
 ## Past editions
 
+- [2026-10-16](reports/2026-10-16.md)
 - [2026-10-15](reports/2026-10-15.md)
 - [2026-10-14](reports/2026-10-14.md)
