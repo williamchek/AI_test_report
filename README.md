@@ -22,6 +22,7 @@ Principle: only publish what was verified by hand; failures and overhyped projec
 
 ## Past editions
 
+- [2026-10-19](reports/2026-10-19.md)
 - [2026-10-16](reports/2026-10-16.md)
 - [2026-10-15](reports/2026-10-15.md)
 - [2026-10-14](reports/2026-10-14.md)
