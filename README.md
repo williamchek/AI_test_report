@@ -11,6 +11,10 @@ A daily tech digest — in English, every item hands-on tested or read in full b
 
 Principle: only publish what was verified by hand; failures and overhyped projects are reported honestly — that is the whole point of "tested for you".
 
+## Articles
+
+Long-form deep-research features, in English and Traditional Chinese: [articles/](articles/)
+
 ## How we score
 
 - ⭐5 — every claim I tested checked out; I'd recommend it to a friend.
