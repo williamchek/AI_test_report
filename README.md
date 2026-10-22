@@ -2,6 +2,10 @@
 
 A daily tech digest — in English, every item hands-on tested or read in full before it is written up.
 
+<video src="https://raw.githubusercontent.com/williamchek/AI_test_report/main/assets/AI_test_report_intro.mp4" poster="assets/intro_poster.png" controls preload="metadata"></video>
+
+*Music: "Carefree" by Kevin MacLeod, CC BY 3.0.*
+
 ## What's inside
 
 - 🆕 **Open-source project tests** — trending new OSS projects, actually installed and run to verify their claims
