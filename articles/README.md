@@ -22,3 +22,10 @@ A study says 60% of 175 AI tools changed their terms in 15 weeks; a list says ni
 | 2026-10-22 | [把電視變笨的人們](2026-10-22-dumb-tv.md) | 繁中 |
 
 A developer used Claude Code to strip 25 bloatware packages off his parents' Xiaomi TV, and thousands followed. Behind the weekend revolt: how ACR watches you (even over HDMI), the billions TV makers earn from your gaze, real crash logs from the debloating trenches — and a Taiwan extension on whether you could sue over it. (Spoiler: what you'd win isn't money, it's the consent screen.)
+
+| Date | Title | Language |
+|------|-------|----------|
+| 2026-10-23 | [The $50 Hoax: How Fake Statistics Conned the AI Citation Machine](2026-10-23-fake-stats-en.md) | EN |
+| 2026-10-23 | [假數據的捷徑：「先造謠」，再讓 AI 幫你背書](2026-10-23-fake-stats.md) | 繁中 |
+
+A GEO researcher generated 50,000 fake statistics for $50 and watched ChatGPT keep fetching them for seven months after Google buried the site. Inside: why "retrieval is not ranking," the mechanics of citation laundering, four real downstream citations (a peer-reviewed paper, a Qatari bank, India's Business Standard), and a three-step routine for checking any number an AI hands you. Plus a Taiwan extension: with the Nov 28 local elections five weeks out, why the island's information environment is tinder for citation laundering — and what makes an election rumor easy or hard to debunk.
