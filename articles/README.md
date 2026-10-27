@@ -29,3 +29,9 @@ A developer used Claude Code to strip 25 bloatware packages off his parents' Xia
 | 2026-10-23 | [假數據的捷徑：「先造謠」，再讓 AI 幫你背書](2026-10-23-fake-stats.md) | 繁中 |
 
 A GEO researcher generated 50,000 fake statistics for $50 and watched ChatGPT keep fetching them for seven months after Google buried the site. Inside: why "retrieval is not ranking," the mechanics of citation laundering, four real downstream citations (a peer-reviewed paper, a Qatari bank, India's Business Standard), and a three-step routine for checking any number an AI hands you. Plus a Taiwan extension: with the Nov 28 local elections five weeks out, why the island's information environment is tinder for citation laundering — and what makes an election rumor easy or hard to debunk.
+
+| Date | Title | Language |
+|------|-------|----------|
+| 2026-10-27 | [「小」電腦的大模型：strata 與 125B 參數的本地實驗](2026-10-27-strata.md) | 繁中 |
+
+An open-source engine that runs a 125-billion-parameter model on a gaming PC — and what it actually takes to run it. Inside: how MoE expert streaming squeezes 125B into 32GB, why memory bandwidth beats chip year on Macs, three charts on what each Mac config can actually run, and four honest warnings before you install (including a license catch: the code is MIT, the model is not). English version to follow.
