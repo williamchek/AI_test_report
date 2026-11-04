@@ -35,3 +35,9 @@ A GEO researcher generated 50,000 fake statistics for $50 and watched ChatGPT ke
 | 2026-10-27 | [「小」電腦的大模型：strata 與 125B 參數的本地實驗](2026-10-27-strata.md) | 繁中 |
 
 An open-source engine that runs a 125-billion-parameter model on a gaming PC — and what it actually takes to run it. Inside: how MoE expert streaming squeezes 125B into 32GB, why memory bandwidth beats chip year on Macs, three charts on what each Mac config can actually run, and four honest warnings before you install (including a license catch: the code is MIT, the model is not). English version to follow.
+
+| Date | Title | Language |
+|------|-------|----------|
+| 2026-11-04 | [為什麼談起 AI 寫的軟體，聽到的總是 Claude Code](2026-11-04-claude-code-phenomenon.md) | 繁中 |
+
+Why do the AI-built projects you hear about almost always come from Claude Code? The premise is 60–70% true: Claude Code leads on love and growth, not headcount. Inside: survey cross-checks, model-vs-harness benchmark evidence, the China workaround that keeps the harness and swaps the model, where rivals win, and seven causes ranked by evidence strength — plus everything that could not be verified.
