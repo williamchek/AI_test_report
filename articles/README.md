@@ -38,6 +38,12 @@ An open-source engine that runs a 125-billion-parameter model on a gaming PC —
 
 | Date | Title | Language |
 |------|-------|----------|
-| 2026-11-04 | [為什麼談起 AI 寫的軟體，聽到的總是 Claude Code](2026-11-04-claude-code-phenomenon.md) | 繁中 |
+| 2026-11-04 | [為什麼大家談到的 AI 專案都出自 Claude Code](2026-11-04-claude-code-phenomenon.md) | 繁中 |
 
 Why do the AI-built projects you hear about almost always come from Claude Code? The premise is 60–70% true: Claude Code leads on love and growth, not headcount. Inside: survey cross-checks, model-vs-harness benchmark evidence, the China workaround that keeps the harness and swaps the model, where rivals win, and seven causes ranked by evidence strength — plus everything that could not be verified.
+
+| Date | Title | Language |
+|------|-------|----------|
+| 2026-11-05 | [Rust 重寫買到了什麼、沒買到什麼：ArtCraft 對上原版商業軟體](2026-11-05-artcraft-rust-rewrites.md) | 繁中 |
+
+ArtCraft's apps are clean-room Rust rewrites of Acrobat, Photoshop, Illustrator, Premiere, Figma, Word, Excel, AutoCAD and more. What does "rewritten in Rust" actually buy? Small native binaries, no account, no telemetry, no subscription, one codebase for desktop and web — but not Adobe-grade depth, AI, plugins, or proven faster large-file work. Inside: the one true PdfCraft-vs-Acrobat job test, architecture, compatibility breakage, and what Rust cannot solve.
