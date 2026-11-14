@@ -30,6 +30,7 @@ Long-form deep-research features, in English and Traditional Chinese: [articles/
 
 ## Past editions
 
+- [2026-11-14](reports/2026-11-14.md)
 - [2026-11-13](reports/2026-11-13.md)
 - [2026-11-12](reports/2026-11-12.md)
 - [2026-11-10](reports/2026-11-10.md)
