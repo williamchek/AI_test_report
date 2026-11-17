@@ -65,3 +65,15 @@ A leaked App Store page revealed Harbor, Claris's private preview that turns App
 | 2026-11-17 | [當 AI 不再是「工具」：一場關於誰在動手的爭論](2026-11-17-ai-is-not-a-tool.md) | 繁中 |
 
 Rich Hickey's essay "AI is Not a Tool" argues LLMs are automation, not tools — and the rebuttal outscored it on Hacker News. Inside: the studies that back his warning (students who got answers lost 17% unaided), the studies that complicate it (AI tutors more than doubled learning gains), a three-question test for deciding what to delegate, and why Taiwan's education guidelines already encode his distinction.
+
+| Date | Title | Language |
+|------|-------|----------|
+| 2026-11-17 | [當警報只剩一封 email：一場當機，如何讓德國飯店的氯氣警示沒人收到](2026-11-17-microsoft-outage-chlorine.md) | 繁中 |
+
+A Microsoft 365 outage in November 2026 took down Outlook for almost 24 hours — and at a German theme-park hotel, the pool's chlorine alarm only existed as an email that never arrived. Inside: the outage's preliminary cause, the corrected casualty count (15 examined, 4 hospitalised), why "the outage caused the poisoning" overstates it, and the wider single-point-of-failure problem — plus what to do when an alarm has only one channel.
+
+| Date | Title | Language |
+|------|-------|----------|
+| 2026-11-17 | [「AI 幫駭客找門、試鑰匙」：ARTEX 來了，台灣這一波攻擊改變了什麼](2026-11-17-artex-taiwan-attacks.md) | 繁中 |
+
+ARTEX, an open-source AI-driven pentest framework, was turned into an attack accelerator hitting Taiwan — but the numbers need unpacking. Inside: the 91APP breach ("up to 4.8 million potentially affected," not leaked), the SinoPac theft that has nothing to do with ARTEX, why "118 incidents, up 60%" is a disclosure count rather than an attack growth rate, and the seven things ordinary people can actually do (starting with hanging up and dialing 165 yourself).
