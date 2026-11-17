@@ -47,3 +47,21 @@ Why do the AI-built projects you hear about almost always come from Claude Code?
 | 2026-11-05 | [Rust 重寫買到了什麼、沒買到什麼：ArtCraft 對上原版商業軟體](2026-11-05-artcraft-rust-rewrites.md) | 繁中 |
 
 ArtCraft's apps are clean-room Rust rewrites of Acrobat, Photoshop, Illustrator, Premiere, Figma, Word, Excel, AutoCAD and more. What does "rewritten in Rust" actually buy? Small native binaries, no account, no telemetry, no subscription, one codebase for desktop and web — but not Adobe-grade depth, AI, plugins, or proven faster large-file work. Inside: the one true PdfCraft-vs-Acrobat job test, architecture, compatibility breakage, and what Rust cannot solve.
+
+| Date | Title | Language |
+|------|-------|----------|
+| 2026-11-17 | [「不經人審」的承諾，如何被改寫了：Google Gemini 與你的 Gmail](2026-11-17-gemini-privacy-promise.md) | 繁中 |
+
+Google promised in 2023 that Gmail, Docs and Drive content would "not be seen by human reviewers" — then quietly qualified that promise in an October 2026 edit to the original post. Inside: the review practice actually predates the edit by nine months, why the "default-on" accusation doesn't hold, the three-year retention rule for reviewed chats, the California lawsuit over a different feature, and what Taiwanese users can and cannot do about it.
+
+| Date | Title | Language |
+|------|-------|----------|
+| 2026-11-17 | [當 Mac 變成「私人 AI 伺服器」：Harbor 預覽上線，但 16GB 的 Mac mini 能做的事早已存在](2026-11-17-harbor-mac-mini-local-ai.md) | 繁中 |
+
+A leaked App Store page revealed Harbor, Claris's private preview that turns Apple silicon Macs into a local AI server — but with no price, date, or specs. Inside: the five-hour leak, why Thunderbolt 5 pooling excludes a Thunderbolt 4 Mac mini, what a 16GB M4 mini can actually run today (8B–14B models, Wan 2.1 1.3B video), and why the tools that already do the job are free.
+
+| Date | Title | Language |
+|------|-------|----------|
+| 2026-11-17 | [當 AI 不再是「工具」：一場關於誰在動手的爭論](2026-11-17-ai-is-not-a-tool.md) | 繁中 |
+
+Rich Hickey's essay "AI is Not a Tool" argues LLMs are automation, not tools — and the rebuttal outscored it on Hacker News. Inside: the studies that back his warning (students who got answers lost 17% unaided), the studies that complicate it (AI tutors more than doubled learning gains), a three-question test for deciding what to delegate, and why Taiwan's education guidelines already encode his distinction.
