@@ -77,3 +77,15 @@ A Microsoft 365 outage in November 2026 took down Outlook for almost 24 hours �
 | 2026-11-17 | [「AI 幫駭客找門、試鑰匙」：ARTEX 來了，台灣這一波攻擊改變了什麼](2026-11-17-artex-taiwan-attacks.md) | 繁中 |
 
 ARTEX, an open-source AI-driven pentest framework, was turned into an attack accelerator hitting Taiwan — but the numbers need unpacking. Inside: the 91APP breach ("up to 4.8 million potentially affected," not leaked), the SinoPac theft that has nothing to do with ARTEX, why "118 incidents, up 60%" is a disclosure count rather than an attack growth rate, and the seven things ordinary people can actually do (starting with hanging up and dialing 165 yourself).
+
+| Date | Title | Language |
+|------|-------|----------|
+| 2026-11-18 | [黑五先漲價再打折？追查 Amazon 351 件「特價」的真相](2026-11-18-amazon-black-friday.md) | 繁中 |
+
+A think tank tracked 351 products Amazon itself featured for Black Friday and Cyber Monday: 29.1% of the "deals" were no cheaper than the previous month's lowest price, 9.4% cost more, and Amazon fired back the same day claiming 98% were the same or cheaper. Inside: how the discount math works, why the two numbers cannot be reconciled, the EU rule the US does not have, and what Taiwan shoppers can actually check (spoiler: nobody has measured momo, PChome, or Shopee the same way yet).
+
+| Date | Title | Language |
+|------|-------|----------|
+| 2026-11-18 | [台積電入股自己的客戶：10 億美元買的是什麼](2026-11-18-tsmc-openai-anthropic.md) | 繁中 |
+
+TSMC's board approved up to US$1 billion for stakes in Anthropic and OpenAI, but the money is an approved cap, not cash spent, and the company gave no reason. Inside: the board resolution in plain language, the seven buyers in Anthropic's US$26 billion placement (TSMC is the smallest), why "first in 30 years" is wrong, and the question that matters more than the amount: what happens to a foundry's neutrality when it owns its customers' customers.
