@@ -89,3 +89,9 @@ A think tank tracked 351 products Amazon itself featured for Black Friday and Cy
 | 2026-11-18 | [台積電入股自己的客戶：10 億美元買的是什麼](2026-11-18-tsmc-openai-anthropic.md) | 繁中 |
 
 TSMC's board approved up to US$1 billion for stakes in Anthropic and OpenAI, but the money is an approved cap, not cash spent, and the company gave no reason. Inside: the board resolution in plain language, the seven buyers in Anthropic's US$26 billion placement (TSMC is the smallest), why "first in 30 years" is wrong, and the question that matters more than the amount: what happens to a foundry's neutrality when it owns its customers' customers.
+
+| Date | Title | Language |
+|------|-------|----------|
+| 2026-11-19 | [AI 審查員「省 token」的承諾：同一份程式碼，它花了 30 倍，抓到一樣的 bug](2026-11-19-open-code-review.md) | 繁中 |
+
+Alibaba's open-code-review promises better precision than Claude Code at one-ninth the tokens. Tested on a 16GB Mac mini with a local 8B model, it caught 2 of 3 planted bugs in a 53-line diff — the same as a plain prompt that used 1,352 tokens instead of 41,257 — missed every bug in a 203-line diff, and its whole-repo scan silently skipped a file that timed out. Inside: the 30× token gap, the race condition no mode caught, and what the tool actually buys you (fewer false alarms, not more catches).
